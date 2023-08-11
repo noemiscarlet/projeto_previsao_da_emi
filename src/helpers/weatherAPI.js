@@ -1,4 +1,4 @@
-// Remova os comentários a medida que for implementando as funções
+// Remova os comentários a medida que for implementando as funçõess
 
 export const searchCities = (/* term */) => {
 //   seu código aqui
